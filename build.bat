@@ -1,1 +1,1 @@
-docker build -t landing-page "%~dp0."
+docker build -t landing-page --platform=linux "%~dp0."

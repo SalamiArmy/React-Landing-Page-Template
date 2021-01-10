@@ -6,6 +6,5 @@ WORKDIR /app
 COPY . .
 RUN yarn build
 RUN yarn global add serve
-RUN npm install -g serve
 RUN serve -s build
 ENTRYPOINT yarn start

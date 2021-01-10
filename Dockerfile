@@ -5,4 +5,4 @@ EXPOSE 3000
 WORKDIR /app
 COPY . .
 RUN yarn build
-CMD yarn start
+ENTRYPOINT yarn start

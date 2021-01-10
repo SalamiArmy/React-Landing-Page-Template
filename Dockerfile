@@ -6,5 +6,4 @@ WORKDIR /app
 COPY . .
 RUN yarn build
 RUN yarn global add serve
-RUN serve -s build
-ENTRYPOINT yarn start
+ENTRYPOINT serve -s build

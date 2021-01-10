@@ -22,33 +22,33 @@
     },
     "Services": [{
             "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Analyse test coverage and quality",
+            "text": "Test code coverage is only part of the analysis. The quality of that coverage should also be analysed. Incidental coverage can lead to hidden bugs."
         },
         {
             "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Flakey tests",
+            "text": "Sometimes even the best programmers write flakey tests. The rarer the occurance that the test is inconclusive for even fails for no apparent reason the harder it is to debug."
         },
         {
             "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Code quality reports",
+            "text": "Code quality reports should be published regularly. Everyone on the team needs to use the same rules for that analysis in their workspace."
         },
         {
             "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Workspace scripts and tools",
+            "text": "Anything to help a developer do his or her job. We write scripts to help keep your workspace clean and other day-to-day development operations."
         },
         {
             "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Load testing",
+            "text": "Load tests put your application under stress to exaggerate inefficiencies. When we do this, any small indiscernible inefficiencies will become larger. Until they are obvious to you and then you can start to fix them."
         },
         {
             "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "name": "Funtions-as-a-service",
+            "text": "We host Warewolf servers of different types and sizes. These servers host Warewolf workflows. Each workflow is a function hosted by Warewolf for running website or app servers."
         }
 
 

@@ -86,22 +86,22 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
+            "name": "Ashley Lewis",
             "job": "Director"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Daniel Marais",
+            "job": "Senior Tester"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
+            "name": "Steven Lewis",
             "job": "Senior Designer"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "name": "Karen",
+            "job": "From Accounting"
         }
     ],
     "Contact": {

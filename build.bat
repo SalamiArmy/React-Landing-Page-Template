@@ -1,3 +1,4 @@
-npm install "%~dp0package.json"
-npm run --prefix "%~dp0" build
+cd "%~dp0."
+npm install
+npm run build
 docker build -t docker.pkg.github.com/salamiarmy/react-landing-page-template/image --platform=linux "%~dp0."

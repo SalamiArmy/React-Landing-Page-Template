@@ -1,23 +1,23 @@
 {
     "Header": {
 
-        "title": "Opswolf",
-        "paragraph": "The line between the lines, the code behind the code."
+        "title": "We are a Landing Page",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
     "About": {
-        "paragraph": "Opswolf works with teams of developers to write build definitions and configuration as code. We are programmers, testers and DevOps gurus who take care of CI and CD efficiently and securely.",
+        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         "Why": [
-            "Fix odd flakey test failures",
-            "Polish test and code quality",
-            "Publish code quality and load test reports",
-            "Dockerfiles"
+            "Lorem ipsum dolor",
+            "Tempor incididunt",
+            "Lorem ipsum dolor",
+            "Incididunt ut labore"
         ],
         "Why2": [
-            "Build definitions like YAML",
-            "Versioning",
-            "Workspace cleanliness and best practices",
-            "Branching, merging and general coding guidance"
+            "Aliquip ex ea commodo",
+            "Lorem ipsum dolor",
+            "Exercitation ullamco",
+            "Lorem ipsum dolor"
         ]
     },
     "Services": [{
@@ -105,32 +105,32 @@
         }
     ],
     "Contact": {
-        "address": "1 Lucus Drive, Hillcrest",
+        "address": "4321 California St, San Francisco, CA 12345 ",
         "phone": "+1 123 456 1234",
-        "email": "admin@opswolf.com",
-        "facebook": "facebook.com/salamiarmy",
-        "twitter": "twitter.com/salami_army",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
         "youtube": "youtube.com"
     },
     "Features": [{
             "icon": "fa fa-comments-o",
-            "title": "Warewolf Agents",
-            "text": "Buy a Warewolf agent for completable jobs for as little as $1 per agent."
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
             "icon": "fa fa-bullhorn",
-            "title": "Warewolf Service",
-            "text": "Rent a Warewolf service for high speed and availability."
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
             "icon": "fa fa-group",
-            "title": "Opswolf Warewolf",
-            "text": "Pay for usage of the ultimate Warewolf server: Opswolf"
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
             "icon": "fa fa-magic",
-            "title": "Bamboo Builds",
-            "text": "Run builds and deployments with the Warewolf Bamboo server."
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
     ]
 }

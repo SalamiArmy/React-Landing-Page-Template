@@ -121,13 +121,13 @@
         },
         {
             "icon": "fa fa-group",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Bamboo",
+            "text": "Automated CI and an installer deployed in under 20 minutes. See http://bamboo.opswolf.com"
         },
         {
             "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
-            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+            "title": "Test Dependencies",
+            "text": "Over a dozen services running in containers. See all the repos ending in -connector-testing here: https://gitlab.com/warewolf"
         }
     ]
 }
